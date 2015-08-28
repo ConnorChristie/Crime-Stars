@@ -1,0 +1,12 @@
+name: CrimeStars
+version: 1.0.0
+author: [Chiller]
+main: me.chiller.crimestars.Main
+commands:
+    crimestars:
+        description: CrimeStars plugin commands
+        usage: /crimestars <command>
+        aliases: [cs]
+permissions:
+    cs.jail:
+        description: Able to jail a player by killing them
